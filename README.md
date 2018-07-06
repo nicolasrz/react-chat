@@ -1,8 +1,8 @@
 # Goosta
-💬 Un petit chat en temps réel avec ReactJS et Node.js !
 
-## Aperçu
 ![Interface chat](https://image.ibb.co/iPTV6d/Goosta_Chat.png)
+
+💬 Un petit chat en temps réel avec ReactJS et Node.js !
 
 ## Résumé
 - ⚡️ Performant / Rapide.
