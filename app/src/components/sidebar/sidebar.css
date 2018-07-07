@@ -1,0 +1,21 @@
+aside.sidebar{
+    height: 100%;
+    width: 450px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #fff;
+    overflow-x: hidden;
+    box-shadow: 3px 0px 30px rgba(0, 0, 0, 0.10);
+}
+
+aside.sidebar .sidebar-logo{
+    background-color: var(--colorPurple);
+    text-align: center;
+}
+
+aside.sidebar .sidebar-logo img{
+    width: 160px;
+    margin: 25px auto;
+}
