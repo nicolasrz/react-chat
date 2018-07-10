@@ -12,7 +12,6 @@
     --fontFamily: 'Montserrat';
 }
 
-
 body {
     font-family: var(--fontFamily), sans-serif;
     color: var(--fontColor);
