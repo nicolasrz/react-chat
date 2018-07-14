@@ -1,29 +1,30 @@
-# Chat
+# react-chat
 
-💬 Un petit chat en temps réel avec ReactJS et Node.js !
+💬 A real time chat with ReactJS and Node.js!
 
-## Résumé
-- ⚡️ Performant / Rapide.
-- 👍 Interface utilisateur conviviale et UX.
-- 🔒 N'utilise pas les données de l'utilisateur !
-- 🚀 API intuitive !
-- 💰 Totalement gratuit.
+### Summary
+- ⚡️ Performing / Fast.
+- 👍 User-friendly interface and UX.
+- 🔒 Do not use user data!
+- 🚀 Intuitive API!
+- 💰 Totally free.
 
-## Caractéristiques
-- 📡 Envoi et réception de messages en temps réel.
-- 📝 Créer des salons public et privé.
-- 💬 Indicateurs de frappe et de présence.
-- 🧠 Historique des anciens messages.
-- 🔔 Notifications de bureau.
+### Features
+- 📡 Send and receive messages in real time.
+- 📝 Create public and private salons.
+- 💬 Typing and presence indicators.
+- 🧠 History of old messages.
+- 🔔 Office notifications.
 
-## Parlez moi
-N'hésitez pas, c'est gratuit! 😊
+### 😊  Talk to me
+Do not hesitate, it's free !
 
-- 💬  Chat : Rejoignez-moi sur [Discord](https://discord.gg/tRse4qu)
-- 📣  News : Suivez-moi sur [Twitter](https://twitter.com/_brandonsueur)
+- 💬  Chat : Join me on [Discord](https://discord.gg/tRse4qu)
+- 📣  News : Follow me on [Twitter](https://twitter.com/_brandonsueur)
 
-## Contribuez
-Si vous avez un problème, une demande de fonctionnalité ou une demande d'extraction, faites-le nous savoir!
+### 👋  Contribute
+If you have a problem, a feature request or an extraction request, let us know!
 
-##  Licence
-Le projet est disponible en **open source** selon les termes de la licence **MIT**.
+
+### 📖  License
+The project is available as open source under the terms of the MIT License.
