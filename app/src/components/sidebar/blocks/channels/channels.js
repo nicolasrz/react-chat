@@ -10,13 +10,13 @@ class Sidebar extends Component {
         <div className="channels-header">
           <h2>Salons</h2>
 
-          <a href="/"><img src={addCircular} width="20" alt=""/></a>
+          <a href="#"><img src={addCircular} width="20" alt=""/></a>
         </div>
 
         <ul>
-          <li><a href="/"><span>#</span> bienvenue</a></li>
-          <li><a href="/"><span>#</span> general</a></li>
-          <li><a href="/"><span>#</span> divers</a></li>
+          <li><a href="#"><span>#</span> bienvenue</a></li>
+          <li><a href="#"><span>#</span> general</a></li>
+          <li><a href="#"><span>#</span> divers</a></li>
         </ul>
       </div>
     );

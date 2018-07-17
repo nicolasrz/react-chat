@@ -23,6 +23,7 @@
 .channels ul a{
     font-weight: 500;
     color: #666A70;
+    transition-duration: 0.3s;
 }
 
 .channels ul a span{ color: #919499 }
