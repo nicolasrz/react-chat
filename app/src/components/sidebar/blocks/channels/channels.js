@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import addCircular from './add-circular.svg'
 import './channels.css';
 
-class Sidebar extends Component {
+class Channels extends Component {
   render() {
     return (
       <div className="channels">
@@ -23,4 +23,4 @@ class Sidebar extends Component {
   }
 }
 
-export default Sidebar;
+export default Channels;
