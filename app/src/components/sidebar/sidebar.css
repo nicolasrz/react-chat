@@ -15,7 +15,10 @@ aside.sidebar .sidebar-logo{
     text-align: center;
 }
 
-aside.sidebar .sidebar-logo img{
-    width: 160px;
-    margin: 25px auto;
+aside.sidebar .sidebar-logo h3{
+    margin-top: 0;
+    padding: 25px;
+    
+    color: #fff;
+    font-weight: 700;
 }
